@@ -1,11 +1,10 @@
 {
-  "name": "taproom",
+  "name": "angular2-to-do",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "authors": [
-    "Stephanie Mayer <smayer0926@gmail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "",
   "ignore": [
     "**/.*",
@@ -15,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-   "bootstrap": "^3.3.7"
- }
+    "bootstrap": "^3.3.7"
+  }
 }
